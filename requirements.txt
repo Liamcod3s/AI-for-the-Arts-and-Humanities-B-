@@ -1,0 +1,5 @@
+torch, 		PyTorch Foundation
+transformers, 	Hugging Face
+diffusers, 	Hugging Face
+Pillow, 	Python-Pillow
+google-colab, 	Google
