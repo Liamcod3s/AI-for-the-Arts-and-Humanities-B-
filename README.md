@@ -1,7 +1,7 @@
 # AI for the Arts and Humanities (B) Portfolio
 Student ID: 2911567
 
-This repository is a collection of two notebooks used to present an approach to AI-Human creative collaboration on the book Journal of a Continental Tour 1867-1868, written by Andrew Macgeorge. Throughout these notebooks, they will demonstrate a design plan for an exhibit that engages the public to explore ‘How We Tell Stories: Exploring AI and Human Interpretation of a 19th Century Continental Tour through Visual Reconstruction’. 
+This repository is a collection of two notebooks used to present an approach to AI-Human creative collaboration on the book Journal of a Continental Tour 1867-1868, written by Andrew Macgeorge. Throughout these notebooks, they will demonstrate a design plan for an exhibit that engages the public to explore ‘How We Tell Stories: Exploring AI and Human Interpretation of a 19th Century Continental Tour through Visual and Textual Reconstruction’. 
 
 How to use this repository:
 
